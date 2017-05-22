@@ -1,0 +1,28 @@
+{
+  "name": "faa-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exchai93/alexa_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exchai93/alexa_tutorial/issues"
+  },
+  "homepage": "https://github.com/exchai93/alexa_tutorial",
+  "dependencies": {
+    "alexa-app": "^4.0.1",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
